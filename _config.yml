@@ -8,10 +8,10 @@ paginate:            5
 permalink:           pretty
 
 # About/contact
-author:              ishanshrimali
-  name:              Ishan Shrimali
-  url:               
-  email:             
+author:              'ishanshrimali'
+  name:              'Ishan Shrimali'
+  url:               ''
+  email:             ''
 
 # Gems
 plugins:
